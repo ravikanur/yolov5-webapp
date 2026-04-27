@@ -16,7 +16,7 @@ gdown
 Cython
 
 # Logging -------------------------------------
-tensorboard>=2.4.1
+tensorboard>=2.20.0
 # wandb
 
 # Plotting ------------------------------------
